@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "makemyprior"]
 	path = makemyprior
-	url = https://github.com/cran/makemyprior
+	url = https://github.com/ingebogh/makemyprior
